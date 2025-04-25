@@ -9,4 +9,6 @@ public class OBLIGATORIOP2 {
     }
     
     public 1234567
+    
+    public string
 }
