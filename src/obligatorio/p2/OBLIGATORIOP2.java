@@ -8,7 +8,3 @@ public class OBLIGATORIOP2 {
         // TODO code application logic here
     }
     
-    public 1234567
-    
-    public string
-}
